@@ -1,5 +1,5 @@
-import starImage1 from "../assets/star1.svg";
-import starImage2 from "../assets/star2.svg";
+import starImage1 from "../assets/Star1.svg";
+import starImage2 from "../assets/Star2.svg";
 
 export default function Stars() {
   return (
